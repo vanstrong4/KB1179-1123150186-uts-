@@ -1,5 +1,17 @@
 # kb1179_1123150186_uts
 
+![Banner Project] (assets/image/selamat1.jpg)
+![Banner Project] (assets/image/selamat2.jpg)
+![Banner Project] (assets/image/selamat3.jpg)
+![Banner Project] (assets/image/login.jpg)
+
+
+Nama : Evan alfeus hendri
+NIM : 1123150186
+
+**cara menjalankan project nya:**
+klik run lalu klik run without debugging
+
 A new Flutter project.
 
 ## Getting Started

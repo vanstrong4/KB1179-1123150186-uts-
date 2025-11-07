@@ -138,7 +138,7 @@ class Login extends StatelessWidget {
                       ),
                       Text('Daftar', 
                       style: TextStyle(
-                        color: Colors.red,
+                        color: Colors.cyan,
                       ),)
                     ],
                   ) 

@@ -91,11 +91,11 @@ class MySplashScreen2 extends StatelessWidget {
                             );
                         }, 
                         style: ElevatedButton.styleFrom(
-                          backgroundColor: const Color.fromARGB(255, 66, 13, 9),
+                          backgroundColor:  Colors.cyan,
                         ),
                         child: Text('Gasken Continue',
                         style: TextStyle(
-                          color: Colors.white
+                          color: Colors.black
                         ),),
                         
                       ),
